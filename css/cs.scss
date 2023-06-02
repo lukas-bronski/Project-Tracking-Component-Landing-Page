@@ -206,6 +206,12 @@ main {
     border-radius: 0.5rem;
     font-size: 0.8rem;
     font-weight: 600;
+    cursor: pointer;
+   }
+
+   .cta:hover {
+
+    background-color: hsl(0, 100%, 77%);
    }
 
    .cta-after-text {
@@ -276,6 +282,10 @@ main {
                 
                 }
 
+                a:hover {
+
+                    text-decoration: underline;
+                }
                
             }
 

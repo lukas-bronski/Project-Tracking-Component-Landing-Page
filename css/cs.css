@@ -129,6 +129,10 @@ main .writing .cta {
   border-radius: 0.5rem;
   font-size: 0.8rem;
   font-weight: 600;
+  cursor: pointer;
+}
+main .writing .cta:hover {
+  background-color: hsl(0, 100%, 77%);
 }
 main .writing .cta-after-text {
   text-transform: uppercase;
@@ -165,6 +169,9 @@ main .writing .cta-after-text {
     text-transform: uppercase;
     font-weight: 600;
     color: #000000;
+  }
+  body nav .menu-desktop a:hover {
+    text-decoration: underline;
   }
   body nav .hamburger {
     display: none;
