@@ -63,7 +63,7 @@ nav .menu-mobile a {
   text-decoration: none;
   line-height: 2.5rem;
 }
-nav .menu-mobile a span {
+nav .menu-mobile a .gray_link {
   color: #aaaaaa;
 }
 nav .menu-mobile hr {
@@ -136,4 +136,53 @@ main .writing .cta-after-text {
   margin-left: 1rem;
   letter-spacing: 0.05rem;
   font-size: 0.8rem;
+}
+
+@media only screen and (min-width: 1000px) {
+  body .background {
+    width: 50%;
+    height: 40%;
+  }
+  body nav {
+    padding: 2rem 0rem 0rem 4rem;
+  }
+  body nav .menu-desktop {
+    display: flex;
+    padding: 0rem 7rem 2rem 1rem;
+  }
+  body nav .menu-desktop hr {
+    margin-left: 2rem;
+    color: #aaaaaa;
+    border: solid 1px;
+    border-color: #aaaaaa;
+  }
+  body nav .menu-desktop .gray_link2 {
+    color: #aaaaaa;
+  }
+  body nav .menu-desktop a {
+    margin-left: 2rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #000000;
+  }
+  body nav .hamburger {
+    display: none;
+  }
+  main {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  main .hero-image {
+    width: 200vh;
+    align-self: center;
+  }
+  main .writing {
+    padding: 4rem;
+    width: 200vh;
+    align-self: center;
+  }
+  main .writing h2 {
+    font-size: 5rem;
+  }
 }/*# sourceMappingURL=cs.css.map */
