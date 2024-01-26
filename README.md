@@ -1,6 +1,5 @@
-# Frontend Mentor - Project tracking intro component solution
+# Project tracking intro component solution
 
-This is a solution to the [Project tracking intro component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d289097500fcb331a67d80e).  
 
 ## Table of contents
 <br>
@@ -23,7 +22,7 @@ This is a solution to the [Project tracking intro component challenge on Fronten
 <b>### The challenge</b>
 <br>
 
-Users should be able to:
+Goals for users:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
@@ -60,7 +59,7 @@ Mobile design
 <br>
 <br>
 
-- Live Site URL : [  CLICK TO VISIT](https://kermitjestem.github.io/Project-Tracking-Component-Landing/)
+- Live Site URL : [  CLICK TO VISIT](https://lukas-bronski.github.io/Project-Tracking-Component-Landing-Page/)
 
 
 <br>
@@ -71,8 +70,8 @@ Mobile design
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5 markup
+- SCSS custom properties
 - Flexbox
 - Mobile-first workflow
 - Java Script
