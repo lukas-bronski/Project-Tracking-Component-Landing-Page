@@ -59,7 +59,7 @@ Mobile design
 <br>
 <br>
 
-- Live Site URL : [  CLICK TO VISIT](https://lukas-bronski.github.io/Project-Tracking-Component-Landing-Page/)
+- Live Site URL : [  CLICK TO VISIT](https://webski-dev.github.io/Project-Tracking-Component-Landing-Page/)
 
 
 <br>
